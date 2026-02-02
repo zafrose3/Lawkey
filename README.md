@@ -3,6 +3,19 @@
 > **Democratizing Legal Awareness Through Multimodal AI Systems.**
 > *A production-grade ML pipeline for structured legal knowledge extraction, reasoning, and explanation.*
 
+## Beginner Overview
+
+Lawkey is a research-focused legal technology project exploring how AI can be used to organize and explain legal concepts.
+
+This repository primarily focuses on experimental ideas and system architecture rather than a fully production-ready application.
+
+### How Beginners Can Contribute
+Beginners can contribute in the following ways:
+- Improve documentation and README clarity
+- Add or clean legal question–answer data
+- Fix typos or formatting issues
+- Suggest improvements through issues
+
 ## 📊 Abstract
 
 LawKey is an end-to-end machine learning system that transforms unstructured legal corpora into navigable knowledge graphs, enabling precise legal reasoning through constrained natural language generation. Our architecture employs transformer-based models for legal entity recognition, graph neural networks for relational inference, and retrieval-augmented generation (RAG) for hallucination-free explanations.
