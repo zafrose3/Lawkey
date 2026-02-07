@@ -1,0 +1,101 @@
+{
+  "dataset_name": "IPC Scenario Dataset",
+  "version": "1.0.0",
+  "description": "Plain-language real-life scenarios intended for mapping to Indian Penal Code offences.",
+  "jurisdiction": "India",
+  "law": "IPC",
+  "phase": "Phase 1 - Scenarios only",
+  "created_by": "community",
+  "scenarios": [
+    {
+      "id": "IPC_SCN_001",
+      "scenario": "A person takes money from another by promising a government job but never provides the job.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_002",
+      "scenario": "A person intentionally causes the death of another using a weapon.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_003",
+      "scenario": "A person secretly takes someone else’s mobile phone without permission.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_004",
+      "scenario": "A person entrusted with company funds transfers the money to their personal account.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_005",
+      "scenario": "A person threatens to publish private photos unless money is paid.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_006",
+      "scenario": "A person files a false police complaint to harass a neighbour.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_007",
+      "scenario": "A person damages another person’s car during an argument.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_008",
+      "scenario": "A person enters a locked house without permission at night.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_009",
+      "scenario": "A person spreads false information online to harm someone’s reputation.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_010",
+      "scenario": "A person forges another person’s signature to withdraw money from a bank.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_011",
+      "scenario": "A person intentionally sets fire to a shop causing property damage.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_012",
+      "scenario": "A person kidnaps a child for ransom.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_013",
+      "scenario": "A person obstructs a public servant from performing official duties.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_014",
+      "scenario": "A person deliberately gives false evidence in a court proceeding.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    },
+    {
+      "id": "IPC_SCN_015",
+      "scenario": "A person assaults another during a dispute causing physical injury.",
+      "domain": "criminal",
+      "complexity": "single-offence"
+    }
+  ]
+}
